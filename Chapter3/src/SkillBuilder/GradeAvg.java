@@ -25,19 +25,19 @@ public class GradeAvg {
 
 					System.out.println("Received input: " + gradeInput);
 					sum += gradeInput;
-					
+
 					if (gradeInput < 0 || gradeInput > 100) {
-						
+
 						System.out.println("School grades do not go below 0 or above 100. Re-enter:");
 					}
-					
+
 					else {
-					
+
 						count++; // Only increment if input was successful
 					}
-					
+
 					if (count == TOTAL_GRADES) {
-						
+
 						break;
 					}
 
@@ -55,22 +55,13 @@ public class GradeAvg {
 	}
 }
 
-/* 
-
-Enter Grade #1: -1
-Received input: -1
-School grades do not go below 0 or above 100. Re-enter:
-Enter Grade #1: 101
-Received input: 101
-School grades do not go below 0 or above 100. Re-enter:
-Enter Grade #1: 89
-Received input: 89
-Enter Grade #2: 88
-Received input: 88
-Enter Grade #3: 91
-Received input: 91
-Enter Grade #4: 96
-Received input: 96
-
-Your average is: 92.80
-*/
+/*
+ * 
+ * Enter Grade #1: -1 Received input: -1 School grades do not go below 0 or
+ * above 100. Re-enter: Enter Grade #1: 101 Received input: 101 School grades do
+ * not go below 0 or above 100. Re-enter: Enter Grade #1: 89 Received input: 89
+ * Enter Grade #2: 88 Received input: 88 Enter Grade #3: 91 Received input: 91
+ * Enter Grade #4: 96 Received input: 96
+ * 
+ * Your average is: 92.80
+ */

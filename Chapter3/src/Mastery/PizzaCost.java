@@ -39,10 +39,10 @@ public class PizzaCost {
 		scanner.close();
 	}
 }
-/* Screen Dump
-
-Enter diameter of desired pizza in inches: 7
-The cost of the pizza is: $4.20
-
-
-*/
+/*
+ * Screen Dump
+ * 
+ * Enter diameter of desired pizza in inches: 7 The cost of the pizza is: $4.20
+ * 
+ * 
+ */

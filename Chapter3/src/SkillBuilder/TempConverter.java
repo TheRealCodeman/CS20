@@ -21,10 +21,9 @@ public class TempConverter {
 	}
 }
 
-
 /*
-
-Enter any number representing degrees farenheit (°F): 789
-Temperature in Celsius (°C) is: 420.5555555555556
-
-*/
+ * 
+ * Enter any number representing degrees farenheit (°F): 789 Temperature in
+ * Celsius (°C) is: 420.5555555555556
+ * 
+ */

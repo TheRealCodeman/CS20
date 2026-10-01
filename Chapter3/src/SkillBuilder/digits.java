@@ -35,14 +35,11 @@ public class digits {
 }
 
 /*
-
-Input any 2 digit number (will repeat until met): 5235
-Input any 2 digit number (will repeat until met): 2352
-Input any 2 digit number (will repeat until met): five
-An error was found stating: java.util.InputMismatchException
- Re-enter:
-Input any 2 digit number (will repeat until met): 68
-Tens place: 60 
-Ones Place: 8
- 
-*/
+ * 
+ * Input any 2 digit number (will repeat until met): 5235 Input any 2 digit
+ * number (will repeat until met): 2352 Input any 2 digit number (will repeat
+ * until met): five An error was found stating: java.util.InputMismatchException
+ * Re-enter: Input any 2 digit number (will repeat until met): 68 Tens place: 60
+ * Ones Place: 8
+ * 
+ */

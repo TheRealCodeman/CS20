@@ -43,14 +43,15 @@ public class ObjectHeight {
 }
 
 /*
-
-An object drops 100 m above the ground. Input how many seconds the object falls for between 0 and 4.5 : 5
-Number must be between 0 and 4.5. Re-enter: 
-An object drops 100 m above the ground. Input how many seconds the object falls for between 0 and 4.5 : -1
-Number must be between 0 and 4.5. Re-enter: 
-An object drops 100 m above the ground. Input how many seconds the object falls for between 0 and 4.5 : 4.647
-Number must be between 0 and 4.5. Re-enter: 
-An object drops 100 m above the ground. Input how many seconds the object falls for between 0 and 4.5 : 2.3453
-After 2.3453 seconds, the object's height from the ground will then be 73.047882759 m.
-
-*/
+ * 
+ * An object drops 100 m above the ground. Input how many seconds the object
+ * falls for between 0 and 4.5 : 5 Number must be between 0 and 4.5. Re-enter:
+ * An object drops 100 m above the ground. Input how many seconds the object
+ * falls for between 0 and 4.5 : -1 Number must be between 0 and 4.5. Re-enter:
+ * An object drops 100 m above the ground. Input how many seconds the object
+ * falls for between 0 and 4.5 : 4.647 Number must be between 0 and 4.5.
+ * Re-enter: An object drops 100 m above the ground. Input how many seconds the
+ * object falls for between 0 and 4.5 : 2.3453 After 2.3453 seconds, the
+ * object's height from the ground will then be 73.047882759 m.
+ * 
+ */
